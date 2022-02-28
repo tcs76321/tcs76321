@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcs76321&langs_count=8)](https://github.com/tcs76321/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcs76321&langs_count=20)](https://github.com/tcs76321/github-readme-stats)
 
 <!--
 **tcs76321/tcs76321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
