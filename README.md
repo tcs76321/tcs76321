@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcs76321&langs_count=12&layout=compact)](https://github.com/tcs76321/github-readme-stats)
+[![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcs76321&)](https://github.com/tcs76321/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcs76321&langs_count=12&layout=compact)](https://github.com/tcs76321/github-readme-stats)
 
 
 <!--
