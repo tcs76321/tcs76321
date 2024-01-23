@@ -1,5 +1,5 @@
 # Trevor C Stahl
-## Python, TypeScript, JavaScript, QA, DevOps
+## Python, TypeScript, QA, DevOps
 
 ![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcs76321&show_icons=true&hide=contribs,stars)
 
