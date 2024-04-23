@@ -1,2 +1,2 @@
 # Trevor C Stahl
-## Python, TypeScript, QA, DevOps
+## Full Stack, Test, DevOps, ML/AI
