@@ -1,6 +1,5 @@
-<h1>Trevor C Stahl</h1>
-<h2>Full Stack, Test, DevOps, ML/AI</h2>
-<h3>Python, TypeScript, R, C, Go, Zig, PostgreSQL, MongoDB, C#, Java, Kotlin, Haskell</h3>
+<h1>Full Stack, Test, DevOps, ML/AI</h1>
+<h2>Python, TypeScript, R, C, Go, Zig, PostgreSQL, MongoDB, C#, Java, Kotlin, Haskell</h2>
 
 <table>
   <tr>
