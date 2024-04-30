@@ -14,8 +14,8 @@
   </tr>
 </table>
 <h3>
-  <a href="trevorstahl.com">TrevorStahl.com</a>, 
   <a href="https://leetcode.com/u/tcs7890/">LeetCode</a>, 
+  <a href="">Kaggle</a>, 
   <a href="https://www.hackerrank.com/profile/stahltrevor5">HackerRank</a>, 
-  <a href="linkedin.com/in/trevor-stahl">LinkedIn</a>
+  <a href="https://tryhackme.com/p/stahltrevor5">TryHackMe</a>
 </h3>
