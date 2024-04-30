@@ -1,6 +1,7 @@
 <h1>ML/AI, Data Science, Full Stack, DevOps, Test Automation</h1>
-<h2>Python, TypeScript, PostgreSQL, MongoDB, R, C/C++, Go, Zig, C#, Kotlin, Swift, Haskell</h2>
-<h3>FastAPI, Flask, Django, React, React-Native, Appium, Selenium</h3>
+<h2>Ollama, PerplexityAI, Copilot, GPT-4, Claude3</h2>
+<h2>Python, TypeScript/JS, Zig, C/C++, R, Java, Go, Rust, C#, Kotlin, Swift, Haskell</h2>
+<h3>FastAPI, Flask, Django, PostgreSQL, MongoDB, ElasticSearch, React, React-Native, Podman, Docker, Jenkins, Ansible, OpenTofu, Appium, Selenium, SauceLabs, AWS, GCP, Azure, Kafka</h3>
 
 <table>
   <tr>
@@ -12,3 +13,9 @@
     </td>
   </tr>
 </table>
+<h3>
+  <a href="trevorstahl.com">TrevorStahl.com</a>, 
+  <a href="https://leetcode.com/u/tcs7890/">LeetCode</a>, 
+  <a href="https://www.hackerrank.com/profile/stahltrevor5">HackerRank</a>, 
+  <a href="linkedin.com/in/trevor-stahl">LinkedIn</a>
+</h3>
