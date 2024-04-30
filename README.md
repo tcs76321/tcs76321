@@ -1,5 +1,6 @@
-<h1>Full Stack, Test, DevOps, ML/AI</h1>
-<h2>Python, TypeScript, R, C, Go, Zig, PostgreSQL, MongoDB, C#, Java, Kotlin, Haskell</h2>
+<h1>ML/AI, Data Science, Full Stack, DevOps, Test Automation</h1>
+<h2>Python, TypeScript, PostgreSQL, MongoDB, R, C/C++, Go, Zig, C#, Kotlin, Swift, Haskell</h2>
+<h3>FastAPI, Flask, Django, React, React-Native, Appium, Selenium</h3>
 
 <table>
   <tr>
