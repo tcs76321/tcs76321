@@ -1,5 +1,4 @@
 <h1>ML/AI, Data Science, Full Stack, DevOps, Test Automation</h1>
-<h2>Ollama, PerplexityAI, Copilot, GPT-4, Claude3</h2>
 <h2>Python, TypeScript/JS, Zig, C/C++, R, Java, Go, Rust, C#, Kotlin, Swift, Haskell</h2>
 <h3>FastAPI, Flask, Django, PostgreSQL, MongoDB, ElasticSearch, React, React-Native, Podman, Docker, Jenkins, Ansible, OpenTofu, Appium, Selenium, SauceLabs, AWS, GCP, Azure, Kafka</h3>
 
