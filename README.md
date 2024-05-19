@@ -1,6 +1,6 @@
-<h1>ML/AI, Data Science, Full Stack, DevOps, Test Automation</h1>
-<h2>Python, TypeScript/JS, Zig, C/C++, R, Java, Go, Rust, C#, Kotlin, Swift, Haskell</h2>
-<h3>FastAPI, Flask, Django, PostgreSQL, MongoDB, ElasticSearch, React, React-Native, Podman, Docker, Jenkins, Ansible, OpenTofu, Appium, Selenium, SauceLabs, AWS, GCP, Azure, Kafka</h3>
+<h1>ML/AI, Data Science, Full Stack, DevSecOps</h1>
+<h2>Python, TypeScript/JS, Zig, C/C++, R, Java, Go, Rust, PHP, C#, Kotlin, Swift, Haskell, Scala, RISC-V, Verilog, VHDL</h2>
+<h3>FastAPI, Flask, Django, Gin, PostgreSQL, MongoDB, ElasticSearch, React, Flutter, React-Native, Podman, Docker, Jenkins, Ansible, OpenTofu, Appium, Selenium, SauceLabs, Laravel, Symfony, Bootstrap, AWS, GCP, Azure, Kafka, Firebase, Supabase</h3>
 
 <table>
   <tr>
