@@ -5,6 +5,6 @@
 
 <h3>
   <a href="https://leetcode.com/u/tcs7890/">LeetCode</a>, 
-  <a href="">Kaggle</a>, 
-  <a href="https://tryhackme.com/p/stahltrevor5">TryHackMe</a>
+  <a href="https://www.kaggle.com/trevorstahl">Kaggle</a>, 
+  <a href="https://tryhackme.com/p/TrevorStahl">TryHackMe</a>
 </h3>
