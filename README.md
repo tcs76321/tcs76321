@@ -3,8 +3,8 @@
 <h2>FastAPI, Flask, Django, Gin, PostgreSQL, MongoDB, ElasticSearch, React, React-Native, Podman, Docker, Jenkins, Ansible, OpenTofu, Appium, Selenium, SauceLabs, Kafka</h2>
 <h2>AWS, GCP, Azure, Digital Ocean</h2>
 
-<h2>
+<h3>
   <a href="https://leetcode.com/u/tcs7890/">LeetCode</a>, 
   <a href="">Kaggle</a>, 
   <a href="https://tryhackme.com/p/stahltrevor5">TryHackMe</a>
-</h2>
+</h3>
