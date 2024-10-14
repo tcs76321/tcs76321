@@ -1,5 +1,5 @@
 <h1>ML/AI, Full Stack, DevSecOps</h1>
-<h2>Python, TypeScript, C, C++, C#, Java, Go, Rust</h2>
+<h2>Python, TypeScript, JavaScript, C, C++, C#, Java, Go, Rust</h2>
 <h2>FastAPI, Flask, Django, Gin, PostgreSQL, MongoDB, ElasticSearch, React, React-Native, Podman, Docker, Jenkins, Ansible, OpenTofu, Appium, Selenium, SauceLabs, Kafka</h2>
 <h2>AWS, GCP, Azure, Cloudflare, DigitalOcean</h2>
 
