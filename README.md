@@ -8,4 +8,5 @@
   <a href="https://www.kaggle.com/trevorstahl">Kaggle</a>, 
   <a href="https://tryhackme.com/p/TrevorStahl">TryHackMe</a>,
   <a href="https://www.codewars.com/users/tcs623">CodeWars</a>
+  <a href="https://www.hackerrank.com/profile/stahltrevor5">HackerRank</a>
 </h3>
