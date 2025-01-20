@@ -1,5 +1,5 @@
 <h1>ML/AI, Full Stack, DevSecOps</h1>
-<h2><em>Python,</em> TypeScript, JavaScript, C, Java, PHP</h2>
+<h2><em>Python,</em> TypeScript, JavaScript, C, C++, C#, Java</h2>
 <h2>Flask, Django, PostgreSQL, MongoDB, ElasticSearch, React, React-Native, Podman, Docker, Appium, Selenium, SauceLabs</h2>
 <h2>AWS, GCP, Azure, Cloudflare, DigitalOcean</h2>
 
