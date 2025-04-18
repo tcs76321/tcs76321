@@ -1,6 +1,6 @@
 <h1>ML/AI, Full-Stack, DevSecOps, Computer Science</h1>
 <h2><em>Python,</em> TypeScript, JavaScript, C, C++, C#, Java</h2>
-<h2>Pytorch, Flask, FastAPI, PostgreSQL, MongoDB, ElasticSearch, AstroJS, React, React-Native, Podman, Docker, Appium, Selenium, SauceLabs</h2>
+<h2>Pytorch, Pandas, Flask, FastAPI, PostgreSQL, MongoDB, ElasticSearch, AstroJS, React, React-Native, Podman, Docker, Appium, Selenium, SauceLabs</h2>
 <h2>AWS, GCP, Azure, Cloudflare, DigitalOcean</h2>
 
 <h3>
