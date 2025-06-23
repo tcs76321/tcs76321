@@ -1,3 +1,6 @@
+    "Talk is cheap. Show me the code."
+    - Linus Torvalds
+<br>
 <h3>
   <a href="https://leetcode.com/u/tcs7890/">LeetCode</a>, 
   <a href="https://www.kaggle.com/trevorstahl">Kaggle</a>, 
