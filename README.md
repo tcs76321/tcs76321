@@ -5,3 +5,6 @@
   <a href="https://tryhackme.com/p/TrevorStahl">TryHackMe</a>,
   <a href="https://www.hackerrank.com/profile/stahltrevor5">HackerRank</a>
 </h3>
+
+Certifications:
+- Google Cybersecurity Professional Certificate V2
