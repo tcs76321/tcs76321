@@ -11,3 +11,13 @@
 Certifications:
 </h3>
 - Google Cybersecurity Professional Certificate V2
+
+<h3>
+More Repos:
+</h3>
+- Coming soon!
+
+<h3>
+Import Links:
+</h3>
+- <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">Thompson's 1984 Reflections on Trusting Trust</a>
