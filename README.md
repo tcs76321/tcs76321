@@ -20,4 +20,4 @@ More Repos:
 <h3>
 Import Links:
 </h3>
-- <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">Thompson's 1984 Reflections on Trusting Trust</a>
+- <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">Thompson's 1984 'Reflections on Trusting Trust'</a>
