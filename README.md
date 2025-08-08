@@ -13,7 +13,7 @@ Certifications:
 - Google Cybersecurity Professional Certificate V2
 
 <h3>
-More Repos:
+External Repositories:
 </h3>
 - Coming soon!
 
