@@ -20,5 +20,5 @@ External Repositories:
 <h3>
 Important Links:
 </h3>
-- <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">Thompson's 1984 'Reflections on Trusting Trust'</a>
+- <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">Thompson's 1984 'Reflections on Trusting Trust'</a><br>
 - <a href="https://martinfowler.com/bliki/FrequencyReducesDifficulty.html">'Frequency Reduces Difficulty', or If It Hurts Do It More Often, By Martin Fowler</a>
