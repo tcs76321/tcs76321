@@ -21,5 +21,5 @@ External Repositories:
 Important Links:
 </h3>
 - <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">'Reflections on Trusting Trust'</a><br>
-- <a href="https://martinfowler.com/bliki/FrequencyReducesDifficulty.html">'Frequency Reduces Difficulty', or If It Hurts Do It More Often</a><br>
-- <a href="https://www.dreamsongs.com/WIB.html">Worse Is Better</a><br>
+- <a href="https://martinfowler.com/bliki/FrequencyReducesDifficulty.html">'If It Hurts Do It More Often'</a><br>
+- <a href="https://www.dreamsongs.com/WIB.html">'Worse Is Better'</a><br>
