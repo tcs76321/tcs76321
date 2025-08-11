@@ -18,7 +18,7 @@ External Repositories:
 - Coming soon!
 
 <h3>
-Important Links:
+Intriguing Readings:
 </h3>
 - <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">'Reflections on Trusting Trust'</a><br>
 - <a href="https://martinfowler.com/bliki/FrequencyReducesDifficulty.html">'If It Hurts Do It More Often'</a><br>
