@@ -11,6 +11,7 @@
 Certifications:
 </h3>
 - Google Cybersecurity Professional Certificate V2
+- ISC2 CC - Certified in Cybersecurity
 
 <h3>
 External Repositories:
