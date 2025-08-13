@@ -10,7 +10,7 @@
 <h3>
 Certifications:
 </h3>
-- Google Cybersecurity Professional Certificate V2
+- Google Cybersecurity Professional Certificate V2<br>
 - ISC2 CC - Certified in Cybersecurity
 
 <h3>
