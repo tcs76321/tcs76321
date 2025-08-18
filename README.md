@@ -24,3 +24,15 @@ Intriguing Readings:
 - <a href="https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf">'Reflections on Trusting Trust'</a><br>
 - <a href="https://martinfowler.com/bliki/FrequencyReducesDifficulty.html">'If It Hurts Do It More Often'</a><br>
 - <a href="https://www.dreamsongs.com/WIB.html">'Worse Is Better'</a><br>
+
+<h3>Active Production Tech Stacks</h3>
+<ul>
+  <li>
+    <strong>Static Site:</strong> HTML/CSS, ParcelJS, Cloudflare Pages, GitHub<br>
+    <a href="https://trevorstahl.com">TrevorStahl.com</a>
+  </li>
+  <li>
+    <strong>WordPress CMS:</strong> NameCheap, EasyWP, WordPress<br>
+    <a href="https://welcome2lawrenceks.org/">Welcome2LawrenceKS.org</a>
+  </li>
+</ul>
