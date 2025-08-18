@@ -6,9 +6,6 @@
 - Google Cybersecurity Professional Certificate V2
 - ISC2 CC - Certified in Cybersecurity
 
-### External Repositories:
-- Coming soon!
-
 ### Intriguing Readings:
 - ['Reflections on Trusting Trust'](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 - ['If It Hurts Do It More Often'](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
