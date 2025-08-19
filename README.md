@@ -12,7 +12,7 @@
 - ['Worse Is Better'](https://www.dreamsongs.com/WIB.html)
 
 ### Active Production Tech Stacks
-- **Static Site:** HTML, CSS, JavaScript, ParcelJS, CloudFlare Pages, GitHub
+- **Static Site on CDN:** HTML, CSS, JavaScript, ParcelJS, CloudFlare Pages, GitHub
   [TrevorStahl.com](https://trevorstahl.com)
-- **WordPress CMS:** NameCheap, EasyWP, WordPress
+- **Managed WordPress CMS:** NameCheap, EasyWP, WordPress, Google Analytics
   [Welcome2LawrenceKS.org](https://welcome2lawrenceks.org/)
