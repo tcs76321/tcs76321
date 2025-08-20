@@ -8,7 +8,7 @@
 
 ### Recommended Readings:
 - ['Reflections on Trusting Trust'](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
-- ['If It Hurts Do It More Often'](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
+- ['If It Hurts, Do It More Often'](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
 - ['Worse Is Better'](https://www.dreamsongs.com/WIB.html)
 
 ### Active Production Tech Stacks
