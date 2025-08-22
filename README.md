@@ -4,7 +4,7 @@
 
 ### Certifications:
 - Google Cybersecurity Professional Certificate V2
-- ISC2 CC - Certified in Cybersecurity (Passed exam, not paying surprise $50 fee though)
+- ISC2 CC - Certified in Cybersecurity <sub>(Passed exam, not paying surprise $50 fee though)</sub>
 
 ### Favorite Essays:
 - ['Reflections on Trusting Trust'](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
