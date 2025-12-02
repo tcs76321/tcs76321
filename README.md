@@ -12,7 +12,7 @@
 - ['If It Hurts, Do It More Often'](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
 - ['Worse Is Better'](https://www.dreamsongs.com/WIB.html)
 
-### Active Production Tech Stacks
+### Active Production Applications
 - **Static Site on CDN:** HTML, CSS, JavaScript, ParcelJS, CloudFlare Pages, GitHub | 
   [TrevorStahl.com](https://trevorstahl.com)
 - **Managed WordPress CMS:** NameCheap, EasyWP, WordPress, Google Analytics | 
