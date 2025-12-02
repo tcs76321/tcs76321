@@ -4,7 +4,7 @@
 
 ### Certifications:
 - Google Cybersecurity Professional Certificate V2
-- ISC2 CC - Certified in Cybersecurity <sub>(Passed exam, not paying surprise $50 fee though)</sub>
+- ISC2 CC - Certified in Cybersecurity <sub>(Passed exam, did not pay $50 membership fee)</sub>
 - CompTIA A+ <sub>(Earned 2018, Expired)</sub>
 
 ### Favorite Essays:
