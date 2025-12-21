@@ -1,4 +1,4 @@
-## Active Production Applications
+## Live Production Sites + Apps
 - **Static Site on CDN:** HTML, CSS, JavaScript, ParcelJS, CloudFlare Pages, GitHub | 
   [TrevorStahl.com](https://trevorstahl.com)
 - **Managed WordPress CMS:** NameCheap, EasyWP, WordPress, Google Analytics | 
