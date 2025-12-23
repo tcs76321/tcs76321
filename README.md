@@ -14,4 +14,6 @@
 - ISC2 CC - Certified in Cybersecurity <sub>(Passed exam, did not pay $50 membership fee)</sub>
 - CompTIA A+ <sub>(Earned 2018, expired)</sub>
 
+### [TryHackMe](https://tryhackme.com/p/TrevorStahl), [Kaggle](https://www.kaggle.com/trevorstahl), [LeetCode](https://leetcode.com/u/tcs7890/), [HackerRank](https://www.hackerrank.com/profile/stahltrevor5), [Credly](https://www.credly.com/users/trevor-stahl.6c3db822)
+
 ### "Talk is cheap. Show me the code." - Linus Torvalds
