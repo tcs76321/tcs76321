@@ -1,8 +1,14 @@
-## Live Production Sites + Apps:
-- **Static Site on CDN:** HTML, CSS, JavaScript, ParcelJS, CloudFlare Pages, GitHub | 
-  [TrevorStahl.com](https://trevorstahl.com)
-- **Managed WordPress CMS:** NameCheap, EasyWP, WordPress, Google Analytics | 
-  [Welcome2LawrenceKS.org](https://welcome2lawrenceks.org/)
+## Live Web Sites:
+- **[TrevorStahl.com](https://trevorstahl.com):** HTML, CSS, JavaScript, ParcelJS, CloudFlare,
+- **[TheSoftAnvil.com](https://thesoftanvil.com):** AstroJS, CloudFlare, Wrangler, GitHub
+- **[Welcome2LawrenceKS.org](https://welcome2lawrenceks.org):** NameCheap, EasyWP, WordPress
+
+## Released Production Applications:
+- COMING SOON
+
+## Active Open-Source Projects:
+- Athanor
+- 
 
 ## Favorite Essays:
 - ['Reflections on Trusting Trust'](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
