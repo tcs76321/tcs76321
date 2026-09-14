@@ -1,6 +1,6 @@
 ## Live Web Sites:
 - **[TrevorStahl.com](https://trevorstahl.com):** HTML/CSS, JavaScript, ParcelJS, CloudFlare, GitHub
-- **[TheSoftAnvil.com](https://thesoftanvil.com):** AstroJS, CloudFlare - Workers, Wrangler, GitHub - Actions
+- **[TheSoftAnvil.com](https://thesoftanvil.com):** AstroJS, CloudFlare, Wrangler, GitHub
 - **[Welcome2LawrenceKS.org](https://welcome2lawrenceks.org):** NameCheap, EasyWP, WordPress, PHP
 
 ## Released Production Applications:
