@@ -19,4 +19,4 @@
 ### [TryHackMe](https://tryhackme.com/p/TrevorStahl), [Kaggle](https://www.kaggle.com/trevorstahl), [LeetCode](https://leetcode.com/u/tcs7890/), [HackerRank](https://www.hackerrank.com/profile/stahltrevor5), [Credly](https://www.credly.com/users/trevor-stahl.6c3db822)
 
 ### "Talk is cheap. Show me the code." - Linus Torvalds
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tcs76321&layout=compact&langs_count=14&disable_animations=true&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api/top-langs?username=tcs76321&layout=compact&langs_count=14&disable_animations=true&theme=one_dark_pro)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tcs76321&layout=compact&langs_count=20&disable_animations=true&theme=one_dark_pro)](https://github-stats-extended.vercel.app/api/top-langs?username=tcs76321&layout=compact&langs_count=20&disable_animations=true&theme=one_dark_pro)
